@@ -68,4 +68,4 @@ You can unfollow someone if you do not wish to see their public activity on {% d
 
 - "[Saving repositories with stars](/articles/saving-repositories-with-stars/)"
 - "[Finding ways to contribute to open source on {% data variables.product.prodname_dotcom %}](/github/getting-started-with-github/finding-ways-to-contribute-to-open-source-on-github)"
-{% endif %}
+{% endif %} 
